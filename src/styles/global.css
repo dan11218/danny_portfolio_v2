@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'NatoSansKR-Regular';
+    src: url('./NotoSansKR-Regular.otf')
+}
+@font-face {
+    font-family: 'NatoSansKR-Thin';
+    src: url('./NotoSansKR-Thin.otf')
+}
+@font-face {
+    font-family: 'NatoSansKR-Black';
+    src: url('./NotoSansKR-Black.otf')
+}
+@font-face {
+    font-family: 'NatoSansKR-Bold';
+    src: url('./NotoSansKR-Bold.otf')
+}
+@font-face {
+    font-family: 'NatoSansKR-Light';
+    src: url('./NotoSansKR-Light.otf')
+}
+@font-face {
+    font-family: 'NatoSansKR-Medium';
+    src: url('./NotoSansKR-Medium.otf')
+}
+
+html {
+    font-family: 'NatoSansKR-Black';
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.home_link {
+    text-align: center;
+    margin: auto;
+}
